@@ -5,4 +5,5 @@
 ### Filename: DecisionFlowchart.pdf is a flow chart diagram visualizing Logic
 ### Filename: Car1.py is code for short program in Python
 ### Filename: PythonOOP.png is a screenshot of the code and run result
-### Filname: CarClass.png is a chart visualizing an OOP
+### Filename: CarClass.png is a chart visualizing an OOP
+### Filename: NetworkDesign.png is a ring topology chart visualization
