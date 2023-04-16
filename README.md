@@ -7,3 +7,4 @@
 ### Filename: PythonOOP.png is a screenshot of the code and run result
 ### Filename: CarClass.png is a chart visualizing an OOP
 ### Filename: NetworkDesign.png is a ring topology chart visualization
+### Filename: HighOutputProductPrices.png is a SQL query for product prices
